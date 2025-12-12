@@ -2,7 +2,7 @@
 <manifest>
   
     <remote name="los" fetch="https://github.com/LineageOS" />
-    <remote name="me" fetch="https://github.com/sm6375-PixelOS" />
+    <remote name="me" fetch="https://github.com/qayumin" />
 
     <project path="device/motorola/bangkk" name="android_device_motorola_bangkk" remote="me" revision="lineage-23.1"  />
     <project path="device/motorola/fogos" name="android_device_motorola_fogos" remote="me" revision="lineage-23.1"  />
