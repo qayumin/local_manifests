@@ -20,7 +20,7 @@
   
     <project path="vendor/motorola/sm6225-common" name="android_vendor_motorola_sm6225-common" remote="me" revision="lineage-23.1" />
     <project path="vendor/motorola/sm6375-common" name="android_vendor_motorola_sm6375-common" remote="me" revision="lineage-23.1"  />
-    <project path="vendor/xiaomi/sm6125-common" name="android_vendor_xiaomi_sm6125-common" remote="" revision="lineage-23.1" />
+    <project path="vendor/xiaomi/sm6125-common" name="android_vendor_xiaomi_sm6125-common" remote="me" revision="lineage-23.1" />
   
     <project path="kernel/motorola/sm6375" name="android_kernel_motorola_sm6375" remote="me" revision="lineage-23.0"  />
     <project path="kernel/motorola/sm6225" name="android_kernel_motorola_sm6225" remote="me" revision="lineage-23.1" />
