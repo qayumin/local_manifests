@@ -11,7 +11,7 @@
   
     <project path="device/motorola/sm6375-common" name="android_device_motorola_sm6375-common" remote="me" revision="lineage-23.1"  />
     <project path="device/motorola/sm6225-common" name="android_device_motorola_sm6225-common" remote="me" revision="lineage-23.1" />
-    <project path="device/xiaomi/sm6125-common" name="android_vendor_xiaomi_sm6125-common" remote="me" revision="lineage-23.1" />
+    <project path="device/xiaomi/sm6125-common" name="android_device_xiaomi_sm6125-common" remote="me" revision="lineage-23.1" />
 
     <project path="vendor/motorola/bangkk" name="android_vendor_motorola_bangkk" remote="me" revision="lineage-23.1"  />
     <project path="vendor/motorola/fogos" name="android_vendor_motorola_fogos" remote="me" revision="lineage-23.1"  />
