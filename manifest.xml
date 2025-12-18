@@ -7,7 +7,7 @@
     <project path="device/motorola/bangkk" name="android_device_motorola_bangkk" remote="me" revision="lineage-23.1"  />
     <project path="device/motorola/fogos" name="android_device_motorola_fogos" remote="me" revision="lineage-23.1"  />
   
-    <project path="device/motorola/sm6375-common" name="android_device_motorola_sm6375-common" remote="me" revision="lineage-23.1"  />
+    <project path="device/motorola/sm6375-common" name="android_device_motorola_sm6375-common" remote="me" revision="lineage-23.2"  />
 
     <project path="vendor/motorola/bangkk" name="android_vendor_motorola_bangkk" remote="me" revision="lineage-23.1"  />
     <project path="vendor/motorola/fogos" name="android_vendor_motorola_fogos" remote="me" revision="lineage-23.1"  />
